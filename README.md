@@ -2,7 +2,7 @@
 
 Multiple variants of this project is made but this will be the final version with all latest things to be included.
 
-#Project Details
+# Project Details
 
 https://data.cityofchicago.org/ - Provides monthly update on crimes that were observed in Chicago. This Public dataset helps in finding the crimes by Count, Year, Type etc.
 
@@ -17,6 +17,12 @@ Features Added:
 	
 	
 Features ToBe Added:
+
 	1) Save cleaned _raw data to HDFS for reporting.
 	2) Adding HDFS to Elastic Search and Kibana for Learning purpose.
+	
+# Reporting Tool - Apache Superset
+
+	1) Used the simple and easy to use Apache Superset tool for Visualization.
+
 	
