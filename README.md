@@ -1,6 +1,11 @@
 # Crimes Analysis in Chicago for 2001 to Present
 
 Multiple variants of this project is made but this will be the final version with all latest things to be included.
+Used Apache Spark(PySpark) to write the core logic to process the data and save to MYSQL server. 
+Apache Superset reads tables from MYSQL server and provides required reports.
+MYSQL Server - EC2 micro free tier instance that holds the data.
+Superset - EC2 micro free tier instance = Installed Superset on a free instance to display the Dashboard
+Apache Spark - Code execution done from Local Machine.
 
 # Project Details
 
