@@ -25,4 +25,4 @@ Features ToBe Added:
 
 	1) Used the simple and easy to use Apache Superset tool for Visualization.
 
-	
+![alt text](https://github.com/thearfask/crimes_dashboard/blob/main/screenshot/Screenshot%202020-10-11%20at%202.27.33%20AM.png)
